@@ -1,0 +1,427 @@
+{
+  "TC1030": {
+    "tipo": 0,
+    "grupos_max": 8,
+    "horas": 40,
+    "periodos": [1, 2],
+    "num_modulos": 1,
+    "semestre": 1,
+    "profesores": [
+      {
+        "nomina": "L00271734",
+        "modulos": [1],
+        "horas": [40]
+      },
+      {
+        "nomina": "L03524672",
+        "modulos": [1],
+        "horas": [40]
+      },
+      {
+        "nomina": "L03518135",
+        "modulos": [1],
+        "horas": [40]
+      },
+      {
+        "nomina": "L03542594",
+        "modulos": [1],
+        "horas": [40]
+      },
+      {
+        "nomina": "L03032035",
+        "modulos": [1],
+        "horas": [40]
+      },
+      {
+        "nomina": "L00534370",
+        "modulos": [1],
+        "horas": [40]
+      },
+      {
+        "nomina": "L03546291",
+        "modulos": [1],
+        "horas": [40]
+      },
+      {
+        "nomina": "L03556523",
+        "modulos": [1],
+        "horas": [40]
+      }
+    ]
+  },
+  "TC1033": {
+    "tipo": 0,
+    "grupos_max": 1,
+    "horas": 20,
+    "periodos": [3],
+    "num_modulos": 1,
+    "semestre": 1,
+    "profesores": [
+      {
+        "nomina": "L00271734",
+        "modulos": [1],
+        "horas": [20]
+      }
+    ]
+  },
+  "TC1027": {
+    "tipo": 0,
+    "grupos_max": 4,
+    "horas": 20,
+    "periodos": [2],
+    "num_modulos": 1,
+    "semestre": 1,
+    "profesores": [
+      {
+        "nomina": "L03524672",
+        "modulos": [1],
+        "horas": [20]
+      },
+      {
+        "nomina": "L03518135",
+        "modulos": [1],
+        "horas": [20]
+      },
+      {
+        "nomina": "L03542594",
+        "modulos": [1],
+        "horas": [20]
+      },
+      {
+        "nomina": "L03043605",
+        "modulos": [1],
+        "horas": [20]
+      },
+      {
+        "nomina": "L03546291",
+        "modulos": [1],
+        "horas": [20]
+      },
+      {
+        "nomina": "L00534370",
+        "modulos": [1],
+        "horas": [20]
+      },
+      {
+        "nomina": "L03556523",
+        "modulos": [1],
+        "horas": [20]
+      }
+    ]
+  },
+  "TC1001B": {
+    "tipo": 1,
+    "grupos_max": 1,
+    "horas": 60,
+    "periodos": [3],
+    "num_modulos": 7,
+    "semestre": 1,
+    "profesores": [
+      {
+        "nomina": "L00271734",
+        "modulos": [3],
+        "horas": [6]
+      },
+      {
+        "nomina": "L03524672",
+        "modulos": [3],
+        "horas": [6]
+      },
+      {
+        "nomina": "L03518135",
+        "modulos": [3, 5],
+        "horas": [6, 24]
+      },
+      {
+        "nomina": "L03542594",
+        "modulos": [2, 3, 5],
+        "horas": [8, 6, 24]
+      },
+      {
+        "nomina": "L01163675",
+        "modulos": [1, 4, 6, 7],
+        "horas": [4, 8, 6, 4]
+      },
+      {
+        "nomina": "L03556523",
+        "modulos": [3],
+        "horas": [6]
+      },
+      {
+        "nomina": "L03557809",
+        "modulos": [6, 7],
+        "horas": [6, 4]
+      }
+    ]
+  },
+  "TC1031": {
+    "tipo": 0,
+    "grupos_max": 1,
+    "horas": 60,
+    "periodos": [1, 2, 3],
+    "num_modulos": 1,
+    "semestre": 3,
+    "profesores": [
+      {
+        "nomina": "L00271734",
+        "modulos": [1],
+        "horas": [60]
+      },
+      {
+        "nomina": "L03524672",
+        "modulos": [1],
+        "horas": [60]
+      },
+      {
+        "nomina": "L03518135",
+        "modulos": [1],
+        "horas": [60]
+      },
+      {
+        "nomina": "L03542594",
+        "modulos": [1],
+        "horas": [60]
+      },
+      {
+        "nomina": "L00534370",
+        "modulos": [1],
+        "horas": [60]
+      }
+    ]
+  },
+  "TC1032": {
+    "tipo": 0,
+    "grupos_max": 1,
+    "horas": 20,
+    "periodos": [2],
+    "num_modulos": 1,
+    "semestre": 3,
+    "profesores": [
+      {
+        "nomina": "L03032035",
+        "modulos": [1],
+        "horas": [20]
+      },
+      {
+        "nomina": "L01163675",
+        "modulos": [1],
+        "horas": [20]
+      },
+      {
+        "nomina": "L01249086",
+        "modulos": [1],
+        "horas": [20]
+      },
+      {
+        "nomina": "L03532458",
+        "modulos": [1],
+        "horas": [20]
+      }
+    ]
+  },
+  "TC1004B": {
+    "tipo": 1,
+    "grupos_max": 1,
+    "horas": 120,
+    "periodos": [2, 3],
+    "num_modulos": 9,
+    "semestre": 3,
+    "profesores": [
+      {
+        "nomina": "L00271734",
+        "modulos": [6, 7],
+        "horas": [20, 10]
+      },
+      {
+        "nomina": "L03524672",
+        "modulos": [6, 7],
+        "horas": [20, 10]
+      },
+      {
+        "nomina": "L03518135",
+        "modulos": [6, 7],
+        "horas": [20, 10]
+      },
+      {
+        "nomina": "L03542594",
+        "modulos": [6, 7],
+        "horas": [20, 10]
+      },
+      {
+        "nomina": "L03032035",
+        "modulos": [1, 2, 3, 4, 5],
+        "horas": [15, 15, 5, 5, 5]
+      },
+      {
+        "nomina": "L03043605",
+        "modulos": [1, 2, 3, 4, 5],
+        "horas": [15, 15, 5, 5, 5]
+      },
+      {
+        "nomina": "L00534370",
+        "modulos": [6, 7, 8],
+        "horas": [20, 10, 15]
+      },
+      {
+        "nomina": "L03546291",
+        "modulos": [6, 8],
+        "horas": [20, 15]
+      },
+      {
+        "nomina": "L01249086",
+        "modulos": [9],
+        "horas": [30]
+      },
+      {
+        "nomina": "L03532458",
+        "modulos": [1, 2, 3, 4, 5, 8, 9],
+        "horas": [15, 15, 5, 5, 5, 10, 15]
+      }
+    ]
+  },
+  "TI1015": {
+    "tipo": 0,
+    "grupos_max": 1,
+    "horas": 20,
+    "periodos": [1],
+    "num_modulos": 1,
+    "semestre": 3,
+    "profesores": [
+      {
+        "nomina": "L03524672",
+        "modulos": [1],
+        "horas": [20]
+      },
+      {
+        "nomina": "L03518135",
+        "modulos": [1],
+        "horas": [20]
+      },
+      {
+        "nomina": "L00534370",
+        "modulos": [1],
+        "horas": [20]
+      },
+      {
+        "nomina": "L03545506",
+        "modulos": [1],
+        "horas": [20]
+      },
+      {
+        "nomina": "L03546291",
+        "modulos": [1],
+        "horas": [20]
+      },
+      {
+        "nomina": "L03069916",
+        "modulos": [1],
+        "horas": [20]
+      },
+      {
+        "nomina": "L03556523",
+        "modulos": [1],
+        "horas": [20]
+      }
+    ]
+  },
+  "TC2038": {
+    "tipo": 0,
+    "grupos_max": 1,
+    "horas": 60,
+    "periodos": [1, 2, 3],
+    "num_modulos": 1,
+    "semestre": 5,
+    "profesores": [
+      {
+        "nomina": "L03524672",
+        "modulos": [1],
+        "horas": [60]
+      },
+      {
+        "nomina": "L03542594",
+        "modulos": [1],
+        "horas": [60]
+      },
+      {
+        "nomina": "L00534370",
+        "modulos": [1],
+        "horas": [60]
+      }
+    ]
+  },
+  "TC2007B": {
+    "tipo": 1,
+    "grupos_max": 1,
+    "horas": 160,
+    "periodos": [1, 2],
+    "num_modulos": 6,
+    "semestre": 5,
+    "profesores": [
+      {
+        "nomina": "L00271734",
+        "modulos": [1, 2, 3],
+        "horas": [15, 20, 25]
+      },
+      {
+        "nomina": "L03524672",
+        "modulos": [5, 6],
+        "horas": [30, 20]
+      },
+      {
+        "nomina": "L03518135",
+        "modulos": [4],
+        "horas": [50]
+      },
+      {
+        "nomina": "L03032035",
+        "modulos": [1, 2],
+        "horas": [15, 20]
+      },
+      {
+        "nomina": "L03545506",
+        "modulos": [5, 6],
+        "horas": [30, 20]
+      },
+      {
+        "nomina": "L03557809",
+        "modulos": [3],
+        "horas": [25]
+      }
+    ]
+  },
+  "TC2008B": {
+    "tipo": 1,
+    "grupos_max": 1,
+    "horas": 80,
+    "periodos": [3],
+    "num_modulos": 7,
+    "semestre": 5,
+    "profesores": [
+      {
+        "nomina": "L03518135",
+        "modulos": [1, 2],
+        "horas": [8, 12]
+      },
+      {
+        "nomina": "L03542594",
+        "modulos": [1, 2],
+        "horas": [8, 12]
+      },
+      {
+        "nomina": "L03546291",
+        "modulos": [3, 4, 5, 6],
+        "horas": [12, 12, 12, 12]
+      },
+      {
+        "nomina": "L01193656",
+        "modulos": [3, 4, 5, 6],
+        "horas": [12, 12, 12, 12]
+      },
+      {
+        "nomina": "L03532458",
+        "modulos": [7],
+        "horas": [12]
+      }
+    ]
+  }
+}

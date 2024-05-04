@@ -1,0 +1,114 @@
+{
+  "L00271734": {
+    "nombre": "Víctor Manuel Mañón Rojas",
+    "planta": 0,
+    "horario": [7, 21],
+    "dias": ["lunes", "martes", "miercoles", "jueves", "viernes"],
+    "max_up": 21
+  },
+  "L03524672": {
+    "nombre": "Juan Manuel Alvarado López",
+    "planta": 1,
+    "horario": [7, 21],
+    "dias": ["lunes", "martes", "miercoles", "jueves", "viernes"],
+    "max_up": 28
+  },
+  "L03518135": {
+    "nombre": "Marcial Roberto Leyva Fernández",
+    "planta": 1,
+    "horario": [7, 21],
+    "dias": ["lunes", "martes", "miercoles", "jueves", "viernes"],
+    "max_up": 21
+  },
+  "L03542594": {
+    "nombre": "Mauricio Paletta Nannarone",
+    "planta": 0,
+    "horario": [7, 21],
+    "dias": ["lunes", "martes", "miercoles", "jueves", "viernes"],
+    "max_up": 14
+  },
+  "L03032035": {
+    "nombre": "Yerly Flores Garcia",
+    "planta": 0,
+    "horario": [7, 21],
+    "dias": ["lunes", "martes", "miercoles", "jueves", "viernes"],
+    "max_up": 14
+  },
+  "L03043605": {
+    "nombre": "Jaime Amado López Gómez",
+    "planta": 0,
+    "horario": [7, 11],
+    "dias": ["lunes", "miercoles", "jueves"],
+    "max_up": 14
+  },
+  "L01163675": {
+    "nombre": "Jorge Rodríguez Arce",
+    "planta": 0,
+    "horario": [7, 10],
+    "dias": ["miercoles"],
+    "max_up": 14
+  },
+  "L00534370": {
+    "nombre": "José María Aguilera Méndez",
+    "planta": 0,
+    "horario": [9, 20],
+    "dias": ["lunes", "miercoles", "viernes"],
+    "max_up": 14
+  },
+  "L03545506": {
+    "nombre": "Luis Alonso Guadarrama Varón",
+    "planta": 0,
+    "horario": [7, 9],
+    "dias": ["lunes", "martes", "miercoles", "jueves", "viernes"],
+    "max_up": 14
+  },
+  "L03546291": {
+    "nombre": "Pedro Hernandez Oregel",
+    "planta": 0,
+    "horario": [11, 21],
+    "dias": ["lunes", "martes", "miercoles", "jueves", "viernes"],
+    "max_up": 14
+  },
+  "L03069916": {
+    "nombre": "María José Mirafuentes",
+    "planta": 0,
+    "horario": [11, 17],
+    "dias": ["viernes"],
+    "max_up": 14
+  },
+  "L03556523": {
+    "nombre": "Roberto Ismael Vera Popoca",
+    "planta": 0,
+    "horario": [11, 21],
+    "dias": ["lunes", "martes", "miercoles", "jueves", "viernes"],
+    "max_up": 14
+  },
+  "L01193656": {
+    "nombre": "Ivan Olmos Pineda",
+    "planta": 0,
+    "horario": [17, 19],
+    "dias": ["lunes", "jueves"],
+    "max_up": 7
+  },
+  "L03557809": {
+    "nombre": "Jaime Octavio Silva Ruiz",
+    "planta": 0,
+    "horario": [7, 21],
+    "dias": ["lunes", "viernes"],
+    "max_up": 14
+  },
+  "L01249086": {
+    "nombre": "Fernando Javier Ruiz Cid",
+    "planta": 0,
+    "horario": [7, 21],
+    "dias": ["lunes", "viernes"],
+    "max_up": 7
+  },
+  "L03532458": {
+    "nombre": "Israel Tabarez Paz",
+    "planta": 0,
+    "horario": [7, 21],
+    "dias": ["lunes", "viernes"],
+    "max_up": 7
+  }
+}
